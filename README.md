@@ -1,7 +1,7 @@
 # Hi there, I'm Jini 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/whitelisab/)](https://www.linkedin.com/in/jinichaa/)
-[![Twitter](https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/lmbel/)](https://twitter.com/jinic808)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/whitelisab/)](https://www.linkedin.com/in/jinichaa/)
+[![Twitter](https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/lmbel/)](https://twitter.com/jinic808)
 
 ## About Me
 
