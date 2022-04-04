@@ -5,7 +5,7 @@
 
 ## About Me
 
-- 🌱 I’m currently learning Typescript
+- 🌱 I’m currently learning TypeScript
 - 👯 I’m looking to collaborate on web development
 - 😄 Pronouns: she/her/hers
 
